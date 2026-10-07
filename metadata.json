@@ -1,0 +1,6 @@
+{
+  "name": "OmniVoice AI",
+  "description": "Minimalist voice assistant with local vector DB semantic memory, multi-LLM integration, task categorization, and calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

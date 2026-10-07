@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OmniVoice AI</string>
+    <string name="widget_description">Instant voice capture and background context vectorization</string>
+</resources>
